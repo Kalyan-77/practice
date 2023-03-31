@@ -1,0 +1,90 @@
+
+h1{
+    font-size: 50px;
+    color: orange;
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+    background-color:
+    width: -1000px;
+    height: 100px;
+    text-align: left; 
+}
+img{
+    height: 720px;
+    width: 1500px;
+    padding: 0%;
+    margin-top: 93px;
+}
+a:hover{
+    color: black;   
+    border-radius: 4px;
+    background-color: orange ;
+}
+h2{
+    font-size: 30px;
+    color: blue;
+    text-align: left;
+    margin-left: 70px;
+   
+}
+h3{
+    font-size: 15px;
+    font-style: oblique;
+    margin-left: -50px;
+}
+div.ready{
+margin-left: 6px;
+border: solid ;
+background-color: antiquewhite;
+width: 480px;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+div.first{
+    margin-left: 500px;
+    border: solid ;
+    width: 470px;
+    background-color: antiquewhite;
+    height: 240px;
+    margin-top: -245px;
+    border-radius: 20px;
+}
+div.second{
+    margin-left: 985px;
+    border: solid ;
+    width: 520px;
+    height: 240px;
+    background-color: antiquewhite;
+    margin-top: -245px;
+    border-radius: 20px;
+}
+h1.first{
+    margin-top: 50px;
+    text-align: center;
+}
+h5{
+    font-size: 30px;
+    font-style: inherit;
+    margin-top: -80px;
+    margin-left: 45px;
+}
+div.fourth{
+    font-size: 35px;
+    font-style: italic;
+    margin-top: -90px;
+    margin-left: 10px;
+}
+div.technology{
+    margin-left: 15px;
+    margin-top: 100px;    
+}
+fieldset{
+    border: solid;
+    border-radius: 20px;
+    width: 300px;
+    height: 490px;
+    background-color: aquamarine;
+    margin-left: 120px;
+}
